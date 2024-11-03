@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244277734713",
+    "project_id": "contactsmanager-74930",
+    "storage_bucket": "contactsmanager-74930.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244277734713:android:9c3b48c2093f7372bd0ce8",
+        "android_client_info": {
+          "package_name": "com.example.contactsmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJatDPcIdP3thUCQIq9KTEa7S36p4xas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
